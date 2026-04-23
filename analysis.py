@@ -10,6 +10,7 @@
 максимум колорий
 минимум энергии
 и проверочку)
+я 
 """
 import pandas as pd
 from src.data_loader import load_data
